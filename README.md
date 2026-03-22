@@ -1,4 +1,13 @@
 
+## Official installtion steps
+
+https://www.prisma.io/docs/prisma-orm/quickstart/prisma-postgres
+https://www.prisma.io/docs/prisma-orm/quickstart/sqlite
+
+
+https://www.prisma.io/docs/ai/prompts/nextjs
+
+## Official samples
 
 https://github.com/prisma/nextjs-prisma-postgres-demo
 This example demonstrates how to build a full-stack web application using Next.js, Prisma Client, and Prisma Postgres.
