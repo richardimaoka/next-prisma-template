@@ -3,6 +3,7 @@
 
 https://www.prisma.io/docs/prisma-orm/quickstart/prisma-postgres
 https://www.prisma.io/docs/prisma-orm/quickstart/sqlite
+https://www.prisma.io/docs/prisma-orm/quickstart/postgresql
 
 
 https://www.prisma.io/docs/ai/prompts/nextjs
