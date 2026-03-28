@@ -1,5 +1,5 @@
 
-## Official installtion steps
+## Official installation steps
 
 https://www.prisma.io/docs/prisma-orm/quickstart/prisma-postgres
 https://www.prisma.io/docs/prisma-orm/quickstart/sqlite
